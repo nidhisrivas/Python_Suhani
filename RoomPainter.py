@@ -10,15 +10,17 @@ def getCost(length, width, height, windows, doors):
     wallCost = wallArea * .5
     trimCost = 2 * windows + 3 * doors
     totalCost = ceilCost + wallCost + trimCost
-    
-    return(totalCost)
+
+    return (totalCost)
 
 
-length = int(input("Please enter the length of the room you want to get painted\n"))
+length = int(
+    input("Please enter the length of the room you want to get painted\n"))
 width = int(input("Please enter the width of the room you want to get painted\n"))
 height = int(
     input("Please enter the height of the room you want to get painted\n"))
-numWindows = int(input("Please enter how many doors are there in the room\n"))
+numWindows = int(
+    input("Please enter how many windows are there in the room\n"))
 numDoors = int(input("Please enter how many door are there in the room\n"))
 
 roomCost = getCost(length, width, height, numWindows, numDoors)
