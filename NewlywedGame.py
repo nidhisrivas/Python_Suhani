@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # A Python program for newly weds to reveal how much they know each other
 # Date: July 18th'2023
-# Autor: "Nidhi Srivastava"
+# Autor: "Suhani Khare"
 
 #Initilizing the names list
 names =[]
