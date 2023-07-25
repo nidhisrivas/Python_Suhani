@@ -14,7 +14,7 @@ while (replay == 1):
         print("Invalid, Please Enter an Odd number Only")
         numGames = int(input("Please Enter An Odd Number To Start The Game\n"))
 
-    while ((userWins <= numGames // 2) or (compWins <= numGames // 2)):
+    while ((userWins <= numGames // 2) and (compWins <= numGames // 2)):
 
         userChoice = 0
         compChoice = 0
