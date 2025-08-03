@@ -1,0 +1,6 @@
+fileRead = open("Suhani.txt")
+filePrint = fileRead.read()
+print(" ")
+print(filePrint)
+print(" ")
+fileRead.close()
