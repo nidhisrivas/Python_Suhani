@@ -1,0 +1,9 @@
+Name,Age,City,Score,Grade,Email,Registered,Membership
+Alice,23,New York,88,A,alice@example.com,Yes,Gold
+Bob,31,Los Angeles,76,B,bob@example.com,No,Silver
+Charlie,27,Chicago,92,A,charlie@example.com,Yes,Platinum
+Diana,22,Houston,85,B,diana@example.com,Yes,Gold
+Ethan,29,Phoenix,79,C,ethan@example.com,No,Bronze
+Fiona,25,Philadelphia,91,A,fiona@example.com,Yes,Platinum
+George,34,San Antonio,73,C,george@example.com,No,Silver
+Hannah,28,San Diego,87,B,sampleemail@example.com,Yes,Gold

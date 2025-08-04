@@ -1,4 +1,4 @@
-from CalcModule import addition, subtraction, multiplication, division, modulus
+from NewProjects.Applications.CalcModule import addition, subtraction, multiplication, division, modulus
 
 print("Welcome to the Calculator Module!\n")
 first = int(input("Enter a number: "))
